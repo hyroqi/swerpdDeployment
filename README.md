@@ -87,8 +87,6 @@ Proceed until you reach the Confirmation page, and then click install. We're abo
 
 # Installing the App
 
-<br>
-
 ### First thing to do is to clone the repo into 2 different folders, namely "backend" and "frontend" for easy identification
 
 Open up a cmd and cd into the "backend" folder : 
